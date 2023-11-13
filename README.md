@@ -23,3 +23,11 @@ issues:
 
 2. **Install Required Packages:**
    The application requires specific Python packages to function properly.
+
+
+## Code Snippets!
+
+![Screenshot 2023-11-13 at 23 22 50](https://github.com/he-jiaxin/YouTube-video-info-scrapper/assets/132515037/5c0a87d3-7eaa-45b9-9c42-9b3a393ef5e2)
+
+![Screenshot 2023-11-13 at 23 23 34](https://github.com/he-jiaxin/YouTube-video-info-scrapper/assets/132515037/bd738727-0e59-44a8-b346-c4cc6109771d)
+
